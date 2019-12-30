@@ -110,6 +110,7 @@
 
 ## 其他视频
 
+1. :+1:权利的游戏（第一到八季）  原名：Game of Thrones（2011-2019），2019年12月
 1. :+1:混沌  原名：Chaos（2013），2019年4月
 1. :+1:维度：数学漫步 原名：Dimensions: A Walk Through Mathematics (2008)，2019年3月
 1. :+1::+1:计算机速成课 原名：Crash Course Computer Science，2018年12月
