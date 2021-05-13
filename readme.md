@@ -1,11 +1,12 @@
 # 个人推荐
 
-> 下面是一些我读过的书；使用过的工具；看过的电影、纪录片以及其他视频。
+下面是一些我读过的书；听过的音乐；看过的电影、纪录片以及其他视频。
 
-（注：:+1: 表示推荐，:+1::+1: 表示强烈推荐，:x: 表示差评）
+>（注：:+1: 表示推荐，:+1::+1: 表示强烈推荐，:x: 表示差评）
 
 ## 书单
 
+1. 简单的逻辑学， by D.Q.麦克伦尼，2021年05月
 1. 中国近代史， by 蒋廷黻，2021年03月
 1. 我这一辈子， by 老舍，2021年02月
 1. :+1: 江村经济， by 费孝通，2020年04月
@@ -129,26 +130,26 @@
 
 在 `./musics` 目录下可以找到相应音乐资源
 
-1. :+1::+1: Variations on the Kanon By Pachelbel - George Winston
-1. :+1: Fade - Alan Walker
-1. :+1::+1: Pop Danthology 2012 - DJ Daniel Kim
-1. :+1: 追梦赤子心 - GALA
-1. :+1: Move Your Body (Alan Walker Remix) - Sia,Alan Walker
-1. :+1: 老男孩 (live) - 筷子兄弟
-1. :+1::+1: 钢铁洪流进行曲 - 李旭昊
-1. :+1: 红日 - 李克勤
-1. :+1: The Greatest - Sia,Kendrick Lamar
-1. :+1: 最美的期待 - 南征北战NZBZ
-1. :+1: Try Everything (From ＂Zootopia＂) - Shakira
-1. :+1: 我相信 - 杨培安
-1. :+1: 有色眼睛 - 野三七
-1. :+1::+1: 亮剑-中国军魂 - 北京室内男声合唱团
-1. :+1: Sold Out - Hawk Nelson
-1. :+1: 明天会更好 - 群星
-1. :+1: 花房姑娘 - 韩磊
-1. :+1: Live My Life - Far East Movement,Justin Bieber
-1. :+1: 想去海边 (Live) - 郁可唯,李斯丹妮
-1. :+1::+1: Wake Within Me
-1. :+1: 倔强 - 五月天
 1. :+1: Remember Our Summer - FrogMonster
+1. :+1: 想去海边 (Live) - 郁可唯,李斯丹妮
+1. :+1: Live My Life - Far East Movement,Justin Bieber
 1. :+1: Shots (Broiler Remix) - Imagine Dragons,Broiler
+1. :+1: 倔强 - 五月天
+1. :+1::+1: Wake Within Me
+1. :+1: 花房姑娘 - 韩磊
+1. :+1: 明天会更好 - 群星
+1. :+1: Sold Out - Hawk Nelson
+1. :+1::+1: 亮剑-中国军魂 - 北京室内男声合唱团
+1. :+1: 有色眼睛 - 野三七
+1. :+1: 我相信 - 杨培安
+1. :+1: Try Everything (From ＂Zootopia＂) - Shakira
+1. :+1: 最美的期待 - 南征北战NZBZ
+1. :+1: The Greatest - Sia,Kendrick Lamar
+1. :+1: 红日 - 李克勤
+1. :+1::+1: 钢铁洪流进行曲 - 李旭昊
+1. :+1: 老男孩 (live) - 筷子兄弟
+1. :+1: Move Your Body (Alan Walker Remix) - Sia,Alan Walker
+1. :+1: 追梦赤子心 - GALA
+1. :+1::+1: Pop Danthology 2012 - DJ Daniel Kim
+1. :+1: Fade - Alan Walker
+1. :+1::+1: Variations on the Kanon By Pachelbel - George Winston
